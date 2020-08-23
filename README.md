@@ -10,12 +10,7 @@
 </p>
 
 <p align="center">
-    	<img alt="Project language" src="https://img.shields.io/badge/Project%20Lang-Portuguese 🇧🇷-informational">
-	<a href="https://github.com/K-Schaeffer/NLW-2/blob/master/READMEen.md">
-    		<img alt="Swap readme language" src="https://img.shields.io/badge/English%20ReadMe-Yes-important">
-  	</a>
-
-	
+    	<img alt="Project language" src="https://img.shields.io/badge/Project%20Lang-Portuguese 🇧🇷-informational">	
 </p>
 
 <!--Banner session-->
@@ -27,3 +22,31 @@
 <h4 align="center"> 
 	🚧  Proffy 👨‍🏫 em construção ✔️ 🚧
 </h4>
+
+
+<!--About session-->
+## 💻 Sobre o projeto
+
+Projeto desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+<br>
+
+👨‍🏫 Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias. 
+
+<br>
+
+<!--Tecnologies session-->
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Front-end** 
+
+-  **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) **
+-  **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) **
+-  **[JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+
+#### **Back-end**  ([NodeJS](https://nodejs.org/en/))
+
+-   **[Express](https://expressjs.com/)**
+-   **[Nunjucks](https://mozilla.github.io/nunjucks/)**
+-   **[Nodemon](https://nodemon.io)**
