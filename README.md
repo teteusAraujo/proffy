@@ -1,11 +1,6 @@
 <!-- Badges session -->
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/K-Schaeffer/NLW-2?color=%2304D361">
-
-  
-  <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/">
-    <img alt="By Mateus Araújo" src="https://img.shields.io/badge/Made%20by-Kauan%20Schaeffer-important">
-  </a>
   
   <a href="https://nextlevelweek.com/episodios/discovery/1/edicao/2">
     <img alt="NextLevelWeek#2" src="https://img.shields.io/badge/Next Level Week%20-2.0-%237519C1">
