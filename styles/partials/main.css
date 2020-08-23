@@ -42,7 +42,7 @@ body,
 input,
 button,
 textarea {
-    font-size: 500;
+    font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem;
     color: var(--color-text-base);
