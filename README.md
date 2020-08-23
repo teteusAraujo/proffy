@@ -41,8 +41,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-end** 
 
--  **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) **
--  **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) **
+-  **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+-  **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -  **[JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
 #### **Back-end**  ([NodeJS](https://nodejs.org/en/))
@@ -50,3 +50,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Express](https://expressjs.com/)**
 -   **[Nunjucks](https://mozilla.github.io/nunjucks/)**
 -   **[Nodemon](https://nodemon.io)**
+
+
+## 📝 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
+
+---
+
+<!--Bottom session-->
+<h4 align=center>Feito com ❤️ por Kauan Schaeffer 👋 <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/">Entre em contato :)</a></a></h4>
