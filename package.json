@@ -2,7 +2,6 @@
   "name": "proffy",
   "version": "1.0.0",
   "description": "<!-- Badges session -->\r <p align=\"center\">\r   <img alt=\"GitHub language count\" src=\"https://img.shields.io/github/languages/count/K-Schaeffer/NLW-2?color=%2304D361\">",
-
   "scripts": {
     "dev": "nodemon src/server.js"
   },
@@ -18,7 +17,8 @@
   },
   "homepage": "https://github.com/teteusAraujo/proffy#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

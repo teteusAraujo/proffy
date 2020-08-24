@@ -15,7 +15,7 @@
 
 <!--Banner session-->
 <h1 align="center">
-    <img alt="Proffy-Banner" title="Proffy" src="/images/proffybanner.png"/>
+    <img alt="Proffy-Banner" title="Proffy" src="/public/images/proffybanner.png"/>
 </h1>
 
 <!--Status session-->
@@ -33,6 +33,24 @@ Projeto desenvolvido durante a **NLW #2- Next Level Week 2** oferecida pela [Roc
 👨‍🏫 Proffy - O projeto surgiu com a missão de trazer uma homenagem aos educadores do Brasil, através de uma plataforma que conecta alunos e professores de diversas matérias. 
 
 <br>
+
+<!--Functionalities session-->
+## ⚙️ Funcionalidades
+
+- [x] Professores podem se cadastrar na plataforma através de um formulário no qual preenchem seus dados:
+  - [x] nome completo
+  - [x] link de uma foto
+  - [x] número de whatsapp
+  - [x] breve biografia
+  - [x] matéria que será lecionada
+  - [x] custo hora/aula
+  - [x] horários disponíveis
+
+- [x] Alunos podem buscar professores e:
+  - [x] filtrar por matéria, dia da semana e horário
+  - [x] entrar em contato diretamente no whatsapp de determinado professor
+  
+---
 
 <!--Tecnologies session-->
 ## 🛠 Tecnologias
@@ -54,6 +72,35 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Banco de Dados: SQL]**
 -   **[SQLite](https://sqlitebrowser.org/)**
 
+<br/>
+
+# 👷 Como rodar
+```bash
+# Clonar o repositório
+git clone https://github.com/teteusAraujo/proffy
+
+# Entrar no diretório
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
+
+## 🤔 Como contribuir <br/>
+
+- Faça um fork desse repositório; <br/>
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;<br/>
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`; <br/>
+- Faça push para a sua branch: `git push origin minha-feature`.<br/>
+<br/>
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
 
 ## 📝 Licença
 
@@ -62,4 +109,4 @@ Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
 <!--Bottom session-->
-<h4 align=center>Feito com ❤️ por Mateus Araújo 👋 <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/">Entre em contato :)</a></a></h4>
+<h4 align=center>Feito com ❤️ por  <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/"> Mateus Araújo 👋</a></a></h4>
