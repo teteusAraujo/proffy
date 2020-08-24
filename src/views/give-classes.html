@@ -7,11 +7,13 @@
     <title>Proffy</title>
     
     <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles/main.css">
     <link rel="stylesheet" href="/styles/partials/page-give-classes.css">
-   <link rel="stylesheet" href="/styles/partials/forms.css">
+    <link rel="stylesheet" href="/styles/partials/forms.css">
     <link rel="stylesheet" href="/styles/partials/header.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
+
 </head>
 
 <body id="page-give-classes">
@@ -29,7 +31,7 @@
                 <strong>Que incrível que você quer dar aulas</strong>
                 <p>O primeiro passo. é preencher esse formulário de inscrição </p>
             
-                </div>
+            </div>
         </header>
 
         <main>
@@ -119,36 +121,7 @@
                         <label for="time_to">Até</label>
                          <input type="time" name="time_to[]" required>
                        </div>
-                    </div>
-
-                    <div class="schedule-item">
-
-                        <div class="select-block">
-                            <label for="weekday">Dia da Semana</label>     
-                            <select name="weekday[]"  required>
-                                <option value="">Selecione uma opção</option>
-                                <option value="0">Domingo</option>
-                                <option value="1">Segunda-feira</option>
-                                <option value="2">Terça-feira</option>
-                                <option value="3">Quarta-feira</option>
-                                <option value="4">Quinta-feira</option>
-                                <option value="5">Sexta-feira</option>
-                                <option value="6">Sábado</option>
-                            </select>
-                       </div>
-    
-                       <div class="input-block">
-                           <label for="time_from">Das</label>
-                            <input type="time" name="time_from[]" required>
-                       </div>
-    
-                       <div class="input-block">
-                        <label for="time_to">Até</label>
-                         <input type="time" name="time_to[]" required>
-                       </div>
-                    </div>
-                       
-                   
+                    </div>                   
                 </fieldset>
             </form>
             <footer>
@@ -161,10 +134,9 @@
             </footer>
             
         </main>
-
-
-      
     </div>
+
+    <script src="/scripts/addField.js"></script>
     
 </body>
 </html>

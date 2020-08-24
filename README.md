@@ -45,11 +45,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -  **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -  **[JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
-#### **Back-end**  ([NodeJS](https://nodejs.org/en/))
-
+#### **Back-end**  
+-   **[NodeJs](https://nodejs.org/en/)**
 -   **[Express](https://expressjs.com/)**
 -   **[Nunjucks](https://mozilla.github.io/nunjucks/)**
 -   **[Nodemon](https://nodemon.io)**
+-   **[GitBash](https://gitforwindows.org/)**
+-   **[Banco de Dados: SQL]**
+-   **[SQLite](https://sqlitebrowser.org/)**
 
 
 ## 📝 Licença
@@ -59,4 +62,4 @@ Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
 <!--Bottom session-->
-<h4 align=center>Feito com ❤️ por Kauan Schaeffer 👋 <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/">Entre em contato :)</a></a></h4>
+<h4 align=center>Feito com ❤️ por Mateus Araújo 👋 <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/">Entre em contato :)</a></a></h4>
