@@ -74,6 +74,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br/>
 
+
 # 👷 Como rodar
 ```bash
 # Clonar o repositório
@@ -94,14 +95,14 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 
 ## 🤔 Como contribuir <br/>
-
+```bash
 - Faça um fork desse repositório; <br/>
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;<br/>
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`; <br/>
 - Faça push para a sua branch: `git push origin minha-feature`.<br/>
 <br/>
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
-
+```
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
